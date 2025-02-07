@@ -8,7 +8,7 @@ PsychoPy must be installed on your device for this to run.
 
 **For APA (7th edition) please cite as:**
 
-Mifsud, R. (2025, February 7). Go/No-Go template [Computer software]. Psychopy. https://doi.org/10.17605/OSF.IO/B8S5A
+Mifsud, R. (2025, February 7). Go/No-Go template [Computer software]. Psychopy. https://doi.org/10.17605/OSF.IO/E76RW
 
 **References:**
 
