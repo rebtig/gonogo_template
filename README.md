@@ -1,13 +1,12 @@
 This demo implements the Go/No-Go task (Friedman & Miyake, 2004) in PsychoPy. PsychoPy must be installed on your device for this to run.
 
-The date is the most recent substantial commit on Gitlab.
-
 Code written in PsychoPy version 2024.2.3
 
 **For APA (7th edition) please cite as:**
 
 Mifsud, R. (2025, February 7). Go/No-Go template [Computer software]. Psychopy. https://doi.org/10.17605/OSF.IO/E76RW
 
+The date is the most recent substantial commit on Gitlab.
 **References:**
 
 Friedman, N. P., & Miyake, A. (2004). The Relations Among Inhibition and
